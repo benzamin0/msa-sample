@@ -12,4 +12,7 @@ public class MsaUserApiApplication {
 		SpringApplication.run(MsaUserApiApplication.class, args);
 	}
 
+
+	// jenkins - git 연동 테스트 위해 소스코드 수정
+
 }
